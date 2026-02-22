@@ -79,6 +79,9 @@ Learner_Completion_Prediction
 ```python
 catboost==1.2.10
 scikit-learn
+pandas
+numpy
+matplotlib
 ```
 
 ### 모델
@@ -96,11 +99,6 @@ scikit-learn
 
 | 함수 | 설명 |
 |------|------|
-| `major_group(x)` | 전공명 → 그룹 레이블 변환 |
-| `merge_rare_train_test(...)` | 희귀 카테고리 병합 |
-| `count_by_comma(s)` | 쉼표 구분 항목 수 카운트 |
-| `yes_to_int(s)` | Yes/No 이진 변환 |
-| `valid_count(df, cols)` | 유효 값 수 카운트 |
 | `summary(df)` | 데이터 요약 (타입, 결측값, 고윳값 수) |
 | `plot_one_box(df, col)` | 단일 컬럼 박스플롯 시각화 |
 
