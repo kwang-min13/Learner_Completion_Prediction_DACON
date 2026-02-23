@@ -1,4 +1,4 @@
-# 🎓 Learner Completion Prediction
+# Learner Completion Prediction
 
 데이콘 경진대회: **데이콘 x BDA 제 2회 학습자 수료 예측 AI 경진대회**
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 📂 프로젝트 구조
+## 프로젝트 구조
 
 ```
 Learner_Completion_Prediction
@@ -19,7 +19,7 @@ Learner_Completion_Prediction
 
 ---
 
-## 📊 데이터 개요
+## 데이터 개요
 
 | 구분 | 수량 |
 |------|------|
@@ -72,7 +72,7 @@ Learner_Completion_Prediction
 
 ---
 
-## 🤖 모델링
+## 모델링
 
 ### 사용 라이브러리
 
@@ -95,7 +95,7 @@ matplotlib
 
 ---
 
-## 🔧 주요 유틸리티 함수
+## 주요 유틸리티 함수
 
 | 함수 | 설명 |
 |------|------|
@@ -104,7 +104,7 @@ matplotlib
 
 ---
 
-## 📝 참고
+## 참고
 
 - 플랫폼: [DACON](https://dacon.io)
 - 환경: Google Colab (Python 3.12)
